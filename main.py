@@ -7,7 +7,7 @@ from io import BytesIO
 st.set_page_config(page_title="Waste Classification App", page_icon="🗑️")
 
 # Define your FastAPI API URL
-api_url = "http://localhost:8000/predict/"  # Replace with the correct URL
+api_url = "http://localhost:8080/predict/"  # Replace with the correct URL
 
 st.title("Waste Classification App")
 st.write("This app is designed to predict waste types.")
