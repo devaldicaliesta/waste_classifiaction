@@ -2,5 +2,3 @@ streamlit
 requests
 PIL
 io
-Image
-BytesIO
